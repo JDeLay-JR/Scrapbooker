@@ -1,4 +1,5 @@
-# Scrappr: A Collaborative, Real-Time, Event Driven Scrapbook
+# Scrappr
+## A Collaborative, Real-Time, Event Driven Scrapbook
 
 ## Project Background
 
